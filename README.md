@@ -35,10 +35,8 @@ Tenho um conhecimento ou estou aprendendo sobre as seguintes Tecnologias e Ferra
 
 ##
 <p align="center">
-  <div display="inline-block">
 <a href="https://github.com/lucasmri23">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucasmri23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucasmri23&layout=compact&langs_count=8&theme=algolia"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucasmri23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucasmri23&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  </div>
 </p>
