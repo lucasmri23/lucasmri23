@@ -32,8 +32,9 @@ Tenho um conhecimento ou estou aprendendo sobre as seguintes Tecnologias e Ferra
 </div>
 
 ## Contatos
-<a href="https://linkedin.com"><img width="40px" src="./linkedin_174857.png" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/lucas-marques-ribeiro-2b5133265/"><img width="40px" src="./linkedin_174857.png" alt="LinkedIn"></a>
 <a href="mailto:lucasmribeiro2004@gmail.com"><img width="40px" src="./gmail-icon-logo-svgrepo-com.svg" alt="Email"></a>
+<a href="https://www.discord.com/lucasmri23"><img width="40px" src="./discord-icon-svgrepo-com.svg"></a>
 ##
 <p align="center">
 <a href="https://github.com/lucasmri23">
