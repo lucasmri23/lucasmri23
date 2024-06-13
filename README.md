@@ -32,7 +32,8 @@ Tenho um conhecimento ou estou aprendendo sobre as seguintes Tecnologias e Ferra
 </div>
 
 ## Contatos
-
+<a href="linkedin.com"><img width="40px" src="./linkedin_174857.png"></a>
+<a href="email-to:lucasmribeiro2004@gmail.com"><img width="40px" src="./gmail-icon-logo-svgrepo-com.svg"></a>
 ##
 <p align="center">
 <a href="https://github.com/lucasmri23">
