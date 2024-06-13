@@ -13,6 +13,7 @@ Tenho 19 anos, nascido e crescido em Suzano/SP, e com grande paixão pela área 
 ## Tecnologias e Ferramentas 🖥️ 
 Tenho um conhecimento ou estou aprendendo sobre as seguintes Tecnologias e Ferramentas:
 <br>
+<p align="center">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
@@ -22,6 +23,7 @@ Tenho um conhecimento ou estou aprendendo sobre as seguintes Tecnologias e Ferra
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+</p>
 </br>
 </br>
 <div display="inline-block">
@@ -32,9 +34,10 @@ Tenho um conhecimento ou estou aprendendo sobre as seguintes Tecnologias e Ferra
 </div>
 
 ## Contatos
-<a href="https://www.linkedin.com/in/lucas-marques-ribeiro-2b5133265/"><img width="40px" src="./linkedin_174857.png" alt="LinkedIn"></a>
-<a href="mailto:lucasmribeiro2004@gmail.com"><img width="40px" src="./gmail-icon-logo-svgrepo-com.svg" alt="Email"></a>
-<a href="https://www.discord.com/lucasmri23"><img width="40px" src="./discord-icon-svgrepo-com.svg"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-marques-ribeiro-2b5133265/"><img width="40px" src="./linkedin_174857.png" alt="LinkedIn"></a>
+  <a href="mailto:lucasmribeiro2004@gmail.com"><img width="40px" src="./gmail-icon-logo-svgrepo-com.svg" alt="Email"></a>
+</p>
 ##
 <p align="center">
 <a href="https://github.com/lucasmri23">
