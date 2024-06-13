@@ -1,17 +1,14 @@
 # Lucas Marques Ribeiro
 
 ## Hello, Devs!!
-<!--
-**lucasmri23/lucasmri23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 19 anos, nascido e crescido em Suzano/SP, e com grande paixão pela área da tecnologia. Também me considero uma pessoa competitiva e fascinado por esportes e jogos eletrônicos.
 
-Here are some ideas to get you started:
+📚 Formado como Técnico em Automação Industrial no IFSP, atualmente estou no 4° Semestre de Ciências da Computação no Centro Universitário Braz Cubas em Mogi das Cruzes.
+🏅 Durante minha infância e adolescência pratiquei diveros esportes como, natação, karatê, futebol e volei, tendo até participado de pequenas competições em alguns deles. 
+🎮 Também sou um grande intusiasta de jogos e esportes eletrônicos, e também adoro aprender sobre histórias por trás ou a maneira que são criados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e Ferramentas
+Tenho um conhecimento ou estou aprendendo sobre as seguintes Tecnologias e Ferramentas:
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
