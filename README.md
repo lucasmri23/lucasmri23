@@ -4,7 +4,7 @@
 Tenho 20 anos, nascido e crescido em Suzano/SP, e com grande paixão pela área da tecnologia. Também me considero uma pessoa competitiva e fascinado por esportes e jogos eletrônicos.
 
 <div display="inline-block">
-  <p align="left">📚 Formado como Técnico em Automação Industrial no IFSP, atualmente estou no 4° Semestre de Ciências da Computação no Centro Universitário Braz Cubas em Mogi das Cruzes.</p>
+  <p align="left">📚 Formado como Técnico em Automação Industrial no IFSP, atualmente estou no 5° Semestre de Ciências da Computação no Centro Universitário Braz Cubas em Mogi das Cruzes.</p>
   <p align="left">🏅 Durante minha infância e adolescência pratiquei diveros esportes como, natação, karatê, futebol e volei, tendo até participado de pequenas competições em alguns deles.</p>
   <p align="left">🎮 Também sou um grande intusiasta de jogos e esportes eletrônicos, e também adoro aprender sobre histórias por trás ou a maneira que são criados.</p>
 </div>
