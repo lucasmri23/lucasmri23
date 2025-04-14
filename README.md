@@ -1,7 +1,7 @@
 # Lucas Marques Ribeiro
 
 ## Hello, Devs!!
-Tenho 20 anos, nascido e crescido em Suzano/SP, e com grande paixão pela área da tecnologia. Também me considero uma pessoa competitiva e fascinado por esportes e jogos eletrônicos.
+Sou o Lucas, tenho 20 anos, nascido e crescido em Suzano/SP, e com grande paixão pela área da tecnologia. Também me considero uma pessoa competitiva e fascinado por esportes e jogos eletrônicos.
 
 <div display="inline-block">
   <p align="left">📚 Formado como Técnico em Automação Industrial no IFSP, atualmente estou no 5° Semestre de Ciências da Computação no Centro Universitário Braz Cubas em Mogi das Cruzes.</p>
