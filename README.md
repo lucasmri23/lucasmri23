@@ -53,7 +53,7 @@ Com carga horária de 57 horas, o programa abordou fundamentos de programação,
 
 ### 📚 Habilidades Desenvolvidas
 
-> **Python** • Git • GitHub • Programação Orientada a Objetos • APIs  
+> **Python** • Git • GitHub • Programação Orientada a Objetos
 > **Inteligência Artificial (IA)** • **Microsoft Copilot Studio**
 
 ---
