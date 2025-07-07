@@ -33,12 +33,28 @@ Tenho conhecimento ou estou aprendendo sobre:
 
 ---
 
-## 🧠 Experiências Acadêmicas
+## 🧠 Experiência Técnica Acadêmica
 
 - 📕 Projetos em **C e C++** durante o curso técnico e início da graduação.
 - 📗 Desenvolvimento de front-end com **HTML, CSS e JavaScript** em projetos da faculdade.
 - 📘 Criação de sistemas com **Java + PostgreSQL**, incluindo um CRUD com conexão a banco de dados.
 - 📙 Desenvolvimento de aplicativos Android simples com **React Native** e Expo.
+
+---
+
+## 🏅 Certificação – Bootcamp Python Developer (Suzano | DIO)
+
+<div align="center">
+  <img src="https://github.com/lucasmri23/Certificados/blob/main/assets/python-developer-badge.png?raw=true" alt="Python Developer Badge" width="100px"/>
+</div>
+
+🎓 Em junho de 2025, concluí o **Bootcamp Python Developer – Suzano**, oferecido pela [DIO](https://www.dio.me) em parceria com a Suzano.  
+Com carga horária de 57 horas, o programa abordou fundamentos de programação, POO, bancos de dados, APIs e ferramentas modernas do ecossistema Python.
+
+### 📚 Habilidades Desenvolvidas
+
+> **Python** • Git • GitHub • Programação Orientada a Objetos • APIs  
+> **Inteligência Artificial (IA)** • **Microsoft Copilot Studio**
 
 ---
 
@@ -51,7 +67,7 @@ Tenho conhecimento ou estou aprendendo sobre:
   Jogo com geração procedural de salas e IA de inimigos, desenvolvido no GameMaker Studio.
 
 - 🤖 [**Sistema de Gerenciamento Bibliotecário**](https://github.com/lucasmri23/Biblioteca-Java)  
-  Projeto explorando os conceitos de programação orientada a objetos e sua comunicação com banco de dados, utilizando JAVA e MySQL
+  Sistema CRUD em Java com banco de dados MySQL, explorando os conceitos de POO e integração com JDBC.
 
 ---
 
