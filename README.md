@@ -49,6 +49,6 @@ Tenho um conhecimento ou estou aprendendo sobre as seguintes Tecnologias e Ferra
 
 <div align= "center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasmri23&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasmri23&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmri23&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmri23&layout=donut&theme=tokyonight)
 </div>
